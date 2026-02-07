@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/2/f3b5663b88dc4fc4ab9e68095727c80a/artifacts
+end_time: 1770443384214
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f3b5663b88dc4fc4ab9e68095727c80a
+run_name: dazzling-crow-13
+run_uuid: f3b5663b88dc4fc4ab9e68095727c80a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770443375217
+status: 3
+tags: []
+user_id: Hrishikesh

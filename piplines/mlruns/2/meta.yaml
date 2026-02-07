@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/2
+creation_time: 1770442239099
+experiment_id: '2'
+last_update_time: 1770442239099
+lifecycle_stage: active
+name: churn_baseline

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/2/c6bc499ab91b42aa89db5e9ed8ad0e09/artifacts
+end_time: 1770443361230
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c6bc499ab91b42aa89db5e9ed8ad0e09
+run_name: polite-ox-155
+run_uuid: c6bc499ab91b42aa89db5e9ed8ad0e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770443361049
+status: 4
+tags: []
+user_id: Hrishikesh
