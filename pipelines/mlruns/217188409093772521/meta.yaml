@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/217188409093772521
+creation_time: 1770458299574
+experiment_id: '217188409093772521'
+last_update_time: 1770458299574
+lifecycle_stage: active
+name: churn_model_comparison

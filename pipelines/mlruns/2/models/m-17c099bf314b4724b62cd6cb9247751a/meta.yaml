@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/2/models/m-17c099bf314b4724b62cd6cb9247751a/artifacts
+creation_timestamp: 1770546298742
+experiment_id: '2'
+last_updated_timestamp: 1770546307474
+model_id: m-17c099bf314b4724b62cd6cb9247751a
+model_type: null
+name: model
+source_run_id: 297155e16f2949cab5e577351aa8791f
+status: 2
+status_message: null

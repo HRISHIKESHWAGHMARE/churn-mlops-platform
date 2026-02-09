@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/217188409093772521/c3ba15fdbf384f0387d9f2567a0c83e7/artifacts
+end_time: 1770458318534
+entry_point_name: ''
+experiment_id: '217188409093772521'
+lifecycle_stage: active
+run_id: c3ba15fdbf384f0387d9f2567a0c83e7
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770458300064
+status: 3
+tags: []
+user_id: Hrishikesh

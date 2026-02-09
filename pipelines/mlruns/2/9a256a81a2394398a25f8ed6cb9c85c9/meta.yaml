@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/2/9a256a81a2394398a25f8ed6cb9c85c9/artifacts
+end_time: 1770544459591
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9a256a81a2394398a25f8ed6cb9c85c9
+run_name: rebellious-koi-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770544436708
+status: 3
+tags: []
+user_id: Hrishikesh

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/1
+creation_time: 1770442181147
+experiment_id: '1'
+last_update_time: 1770442181147
+lifecycle_stage: active
+name: train_baseline

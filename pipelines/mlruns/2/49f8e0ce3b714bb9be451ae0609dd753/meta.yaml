@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/2/49f8e0ce3b714bb9be451ae0609dd753/artifacts
+end_time: 1770540719193
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 49f8e0ce3b714bb9be451ae0609dd753
+run_name: silent-cod-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770540699939
+status: 3
+tags: []
+user_id: Hrishikesh

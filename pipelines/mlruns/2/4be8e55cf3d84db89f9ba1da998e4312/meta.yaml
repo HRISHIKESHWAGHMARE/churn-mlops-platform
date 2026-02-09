@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/2/4be8e55cf3d84db89f9ba1da998e4312/artifacts
+end_time: 1770546461835
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4be8e55cf3d84db89f9ba1da998e4312
+run_name: logistic_regression_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770546455091
+status: 3
+tags: []
+user_id: Hrishikesh

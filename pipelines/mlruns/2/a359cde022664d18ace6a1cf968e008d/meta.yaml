@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hrishikesh/churn-mlops-platform/piplines/mlruns/2/a359cde022664d18ace6a1cf968e008d/artifacts
+end_time: 1770443319435
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a359cde022664d18ace6a1cf968e008d
+run_name: debonair-turtle-121
+run_uuid: a359cde022664d18ace6a1cf968e008d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770443319132
+status: 4
+tags: []
+user_id: Hrishikesh
